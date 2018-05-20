@@ -1,0 +1,9 @@
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\bin\Debug\Practical05.ClothingSalesForm.exe.config
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\bin\Debug\Practical05.ClothingSalesForm.exe
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\bin\Debug\Practical05.ClothingSalesForm.pdb
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.csprojResolveAssemblyReference.cache
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.Form1.resources
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.Properties.Resources.resources
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.csproj.GenerateResource.Cache
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.exe
+c:\users\xuanz\onedrive\documents\visual studio 2015\Projects\Practical05.ClothingSalesForm\Practical05.ClothingSalesForm\obj\Debug\Practical05.ClothingSalesForm.pdb
